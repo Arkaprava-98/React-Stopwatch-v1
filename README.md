@@ -1,8 +1,7 @@
-## This is an internship project given by Prodigy Infotech
-
 # Hey Folks!
 ## This is a React JS Application
-### An Stopwatch Application
+### An Stopwatch Application that can help you to track the time laps on the go.
+## The site is live on -----> https://re-stopwatch.netlify.app/
 
 It is ------>
 #### 1. Fully Dynamic
